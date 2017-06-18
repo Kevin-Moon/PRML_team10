@@ -1,0 +1,3 @@
+
+NUM_CLASS = 2
+NUM_CHANNEL = 19
